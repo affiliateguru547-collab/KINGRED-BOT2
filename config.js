@@ -21,15 +21,15 @@ export default {
   SESSION_ID: process.env.SESSION_ID || "",
   PREFIX: process.env.PREFIX || ".",
   CHATBOT: process.env.CHATBOT || "off",
-  BOT_NAME: process.env.BOT_NAME || "KHAN-MD",
+  BOT_NAME: process.env.BOT_NAME || "KINGRED-BOT",
   MODE: process.env.MODE || "private",
-  REPO: process.env.REPO || "https://github.com/JawadTechYT/KHAN-MD",
+  REPO: process.env.REPO || "https://github.com/affiliateguru547-collab/KINGRED-BOT2",
   WEBPAIR: process.env.WEBPAIR || "https://khanmd-pairx.onrender.com",
   NEWSLETTERID: process.env.NEWSLETTERID || "120363426563532140@newsletter",
  
   // ===== OWNER & DEVELOPER SETTINGS =====
   OWNER_NUMBER: process.env.OWNER_NUMBER || "92342*******",
-  OWNER_NAME: process.env.OWNER_NAME || "Jᴀᴡᴀᴅ TᴇᴄʜX",
+  OWNER_NAME: process.env.OWNER_NAME || "Denzel Red",
   SUDO: process.env.SUDO 
     ? process.env.SUDO.split(',').map(s => s.trim()) 
     : ["123@lid"],
@@ -56,14 +56,14 @@ export default {
   // ===== AUTO-RESPONSE SETTINGS =====
   AUTO_REPLY: process.env.AUTO_REPLY || "false",
   AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
-  AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*KHAN MD VIEWED YOUR STATUS 🤖*",
+  AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*KINGRED BOT VIEWED YOUR STATUS 🤖*",
   READ_MESSAGE: process.env.READ_MESSAGE || "false",
   REJECT_MSG: process.env.REJECT_MSG || "*📞 ᴄαℓℓ ɴσт αℓℓσωє∂ ιɴ тнιѕ ɴᴜмвєʀ уσυ ∂σɴт нανє ᴘєʀмιѕѕισɴ 📵*",
 
   // ===== REACTION SETTINGS =====
   AUTO_REACT: process.env.AUTO_REACT || "false",
   OWNER_REACT: process.env.OWNER_REACT || "false",
-  STICKER_NAME: process.env.STICKER_NAME || "KHAN-MD",
+  STICKER_NAME: process.env.STICKER_NAME || "KINGRED-BOT",
   AUTO_STICKER: process.env.AUTO_STICKER || "false",
   AUTO_VOICE: process.env.AUTO_VOICE || "false",
   STATUS_SENDER: process.env.STATUS_SENDER || "true",
@@ -80,8 +80,8 @@ export default {
 
   // ===== MEDIA & AUTOMATION =====
   MENTION_REPLY: process.env.MENTION_REPLY || "false",
-  MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/6zd0ru.jpg",
-  BOT_MEDIA_URL: process.env.BOT_MEDIA_URL || "https://files.catbox.moe/6zd0ru.jpg",
+  MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/r4eb89.jpg",
+  BOT_MEDIA_URL: process.env.BOT_MEDIA_URL || "https://files.catbox.moe/r4eb89.jpg",
   AUDIO_URL: process.env.AUDIO_URL || 'https://files.catbox.moe/0toicz.mp3',
   AUTO_DOWNLOADER: process.env.AUTO_DOWNLOADER || "false",
   
