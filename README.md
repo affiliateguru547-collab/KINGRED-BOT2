@@ -23,12 +23,12 @@
 </p>
 
 <h1 align="center">
-  <img src="https://img.shields.io/badge/-✨_KHAN--MD_INSIGHTS_✨-purple?style=for-the-badge&logo=sparkles&logoColor=white&labelColor=0d1117&color=9d4edd&label=&link=https://github.com/KHAN-MD&link=https://github.com/KHAN-MD" />
+  <img src="https://img.shields.io/badge/-✨_KINGRED--BOT_INSIGHTS_✨-purple?style=for-the-badge&logo=sparkles&logoColor=white&labelColor=0d1117&color=9d4edd&label=&link=https://github.com/KHAN-MD&link=https://github.com/KHAN-MD" />
 </h1>
 </p>
 </p>
     <img src="https://komarev.com/ghpvc/?username=JawadTechYT&label=Views&color=9D00FF&style=flat" alt="Profile Views" />
-    <img src="https://img.shields.io/github/stars/JawadTechYT/KHAN-MD?color=9D00FF&label=Stars&style=flat" alt="GitHub Stars" />
+    <img src="https://img.shields.io/github/stars/JawadTechYT/KINGRED-BOT?color=9D00FF&label=Stars&style=flat" alt="GitHub Stars" />
     <img src="https://img.shields.io/github/forks/JawadTechYT/KHAN-MD?style=flat&color=1E88E5&logo=github&logoColor=white&label=Forks" alt="GitHub Forks" />
     <img src="https://img.shields.io/github/followers/JawadTechYT?style=flat&color=43A047&logo=github&logoColor=white&label=Followers" alt="GitHub Followers" />
     <img src="https://img.shields.io/github/last-commit/JawadTechYT/KHAN-MD?style=flat&color=8E24AA&logo=git&logoColor=white&label=Last%20Commit" alt="Last Commit" />
@@ -159,7 +159,7 @@
 
 ---
 
-## KHAN-MD FEATURES
+## KINGRED-BOT FEATURES
 
 <div align="center">
   <img src="https://img.shields.io/badge/dynamic/json?color=purple&label=Features&style=for-the-badge&url=https://api.example.com/khanmd&query=$.features_count&suffix=%20Active" alt="Features"/>
@@ -193,7 +193,7 @@
 📢 Get updates, fixes, and sneak peeks directly from the official channel.
 </p>
 
-<a href="https://whatsapp.com/channel/0029Vb8ux0L8kyyHPResdY1W" target="_blank">
+<a href="https://chat.whatsapp.com/DIf2KZ32oy66MlCFxPxkde?s=cl&p=a&mlu=0&ilr=4" target="_blank">
   <img src="https://img.shields.io/badge/JOIN_CHANNEL-NOW-8A2BE2?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=111111" alt="Join WhatsApp Channel"/>
 </a>
 
